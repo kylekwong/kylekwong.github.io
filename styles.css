@@ -14,15 +14,8 @@ body {
 
 img {
   max-height: 250px;
+  max-width: 250px;
   border-radius: 50%;
-}
-
-.content {
-  text-align: center;
-}
-
-.body-info {
-  margin: 18px;
 }
 
 a {
@@ -34,4 +27,12 @@ ul {
   width: 220px;
   margin: 0 auto;
   text-align: left;
+}
+
+.content {
+  text-align: center;
+}
+
+.body-info {
+  margin: 18px;
 }
